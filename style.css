@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(rgb(253, 253, 253), rgb(253, 3, 220));
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    color: rgb(15, 15, 15);
+    font-variant:small-caps;
+}
+h1{
+    border-bottom: 2px solid rgb(7, 7, 7);
+}
+span{
+    color: red;
+    border-bottom: 2px solid red;
+    border-right: 2px solid rgb(255, 0, 0);
+}
